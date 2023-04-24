@@ -24,7 +24,7 @@ package main
 import "github.com/hk-32/utils/out"
 
 func main() {
-    out.WriteLine("Hello World")
+    out.Println("Hello World")
 }
 ```
 
